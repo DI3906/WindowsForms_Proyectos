@@ -1,0 +1,17 @@
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\bin\Debug\APOD_WindowsForms.exe.config
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\bin\Debug\APOD_WindowsForms.exe
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\bin\Debug\APOD_WindowsForms.pdb
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\bin\Debug\Newtonsoft.Json.pdb
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\obj\Debug\APOD_WindowsForms.csproj.AssemblyReference.cache
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\obj\Debug\APOD_WindowsForms.Form1.resources
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\obj\Debug\APOD_WindowsForms.Properties.Resources.resources
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\obj\Debug\APOD_WindowsForms.csproj.GenerateResource.cache
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\obj\Debug\APOD_WindowsForms.csproj.CoreCompileInputs.cache
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\obj\Debug\APOD_WindowsForms.csproj.CopyComplete
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\obj\Debug\APOD_WindowsForms.exe
+D:\Proyectos WF\APOD_WindowsForms\APOD_WindowsForms\obj\Debug\APOD_WindowsForms.pdb
